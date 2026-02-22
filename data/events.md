@@ -16,3 +16,4 @@
 2026-02-21 https://www.lemonde.fr/international/live/2026/02/21/en-direct-droits-de-douane-donald-trump-annonce-faire-passer-les-nouveaux-tarifs-mondiaux-de-10-a-15_6667585_3210.html
 2026-02-22 https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-l-envoi-d-un-navire-hopital-au-groenland_7822385.html#xtor=RSS-3-%5Bgeneral%5D
 2026-02-22 https://www.lemonde.fr/international/article/2026/02/22/donald-trump-annonce-qu-un-navire-hopital-americain-va-se-rendre-au-groenland-pour-prendre-soin-des-nombreuses-personnes-qui-sont-malades-et-qui-ne-sont-pas-soignees_6667785_3210.html
+2026-02-22 https://www.lemonde.fr/international/article/2026/02/22/au-groenland-un-membre-de-l-equipage-d-un-sous-marin-americain-evacue-par-l-armee-danoise-au-large-de-nuuk-donald-trump-annonce-l-envoi-d-un-navire-hopital_6667785_3211.html
