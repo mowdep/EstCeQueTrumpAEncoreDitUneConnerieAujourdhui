@@ -20,3 +20,4 @@
 2026-02-25 https://www.franceinfo.fr/monde/usa/donald-trump-accuse-l-iran-de-developper-des-missiles-pouvant-atteindre-bientot-les-etats-unis-lors-de-discours-sur-l-etat-de-l-union_7828472.html#xtor=RSS-3-%5Bgeneral%5D
 2026-02-26 https://www.lemonde.fr/international/article/2026/02/25/diviseur-en-chef-devant-le-congres-donald-trump-dessine-une-amerique-qui-n-en-finirait-pas-de-gagner_6668168_3210.html
 2026-02-27 https://www.lemonde.fr/international/article/2026/02/27/anthropic-donald-trump-ordonne-a-son-administration-de-cesser-immediatement-d-utiliser-l-intelligence-artificielle-de-la-start-up_6668635_3210.html
+2026-02-28 https://www.lemonde.fr/international/article/2026/02/27/donald-trump-evoque-une-possible-prise-de-controle-pacifique-de-cuba-alors-que-washington-accentue-la-pression-sur-l-ile_6668627_3210.html
