@@ -21,3 +21,4 @@
 2026-02-26 https://www.lemonde.fr/international/article/2026/02/25/diviseur-en-chef-devant-le-congres-donald-trump-dessine-une-amerique-qui-n-en-finirait-pas-de-gagner_6668168_3210.html
 2026-02-27 https://www.lemonde.fr/international/article/2026/02/27/anthropic-donald-trump-ordonne-a-son-administration-de-cesser-immediatement-d-utiliser-l-intelligence-artificielle-de-la-start-up_6668635_3210.html
 2026-02-28 https://www.lemonde.fr/international/article/2026/02/27/donald-trump-evoque-une-possible-prise-de-controle-pacifique-de-cuba-alors-que-washington-accentue-la-pression-sur-l-ile_6668627_3210.html
+2026-03-01 https://www.lemonde.fr/international/live/2026/03/01/en-direct-iran-donald-trump-affirme-qu-ali-khamenei-est-mort-teheran-ne-confirme-pas-des-frappes-iraniennes-touchent-dubai-et-abou-dhabi_6668663_3210.html
