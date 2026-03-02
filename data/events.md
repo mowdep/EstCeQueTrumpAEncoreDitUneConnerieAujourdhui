@@ -24,3 +24,5 @@
 2026-03-01 https://www.lemonde.fr/international/live/2026/03/01/en-direct-iran-donald-trump-affirme-qu-ali-khamenei-est-mort-teheran-ne-confirme-pas-des-frappes-iraniennes-touchent-dubai-et-abou-dhabi_6668663_3210.html
 2026-03-01 https://www.lemonde.fr/international/live/2026/03/01/en-direct-l-iran-replique-en-israel-et-dans-le-golfe-apres-la-mort-d-ali-khamenei-l-etat-hebreu-annonce-de-nouvelles-frappes-sur-des-cibles-militaires_6668663_3210.html
 2026-03-01 https://www.lemonde.fr/international/live/2026/03/01/en-direct-iran-donald-trump-promet-de-venger-la-mort-des-militaires-americains-dans-une-allocution-dimanche-soir_6668663_3210.html
+2026-03-02 https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/guerre-en-iran-donald-trump-promet-de-venger-la-mort-des-soldats-americains-tues-lors-des-operations_7840388.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-02 https://www.lemonde.fr/idees/article/2026/03/02/donald-trump-met-en-place-de-nouveaux-droits-de-douane-tout-aussi-fragiles-que-ceux-annules-par-la-cour-supreme_6669217_3232.html
