@@ -29,3 +29,5 @@
 2026-03-03 https://www.lemonde.fr/international/live/2026/03/03/en-direct-iran-donald-trump-affirme-que-la-republique-islamique-allait-attaquer-en-premier-et-ajoute-que-tout-a-ete-detruit-dans-le-pays_6668663_3210.html
 2026-03-03 https://www.lemonde.fr/international/article/2026/03/03/donald-trump-menace-d-arreter-le-commerce-avec-l-espagne-apres-que-celle-ci-a-refuse-a-l-aviation-americaine-l-acces-a-des-bases-militaires_6669425_3210.html
 2026-03-05 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/je-dois-etre-implique-dans-cette-nomination-donald-trump-exige-d-avoir-son-mot-a-dire-dans-le-choix-du-successeur-d-ali-khamenei-a-la-tete-de-l-iran_7847855.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-07 https://www.franceinfo.fr/monde/ameriques/donald-trump-lance-une-coalition-pour-eradiquer-les-cartels-en-amerique-latine_7852382.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-07 https://www.lemonde.fr/international/article/2026/03/07/je-vais-m-occuper-de-cuba-donald-trump-promet-un-grand-changement-de-l-ile-communiste_6669920_3210.html
