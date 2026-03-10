@@ -32,3 +32,5 @@
 2026-03-07 https://www.franceinfo.fr/monde/ameriques/donald-trump-lance-une-coalition-pour-eradiquer-les-cartels-en-amerique-latine_7852382.html#xtor=RSS-3-%5Bgeneral%5D
 2026-03-07 https://www.lemonde.fr/international/article/2026/03/07/je-vais-m-occuper-de-cuba-donald-trump-promet-un-grand-changement-de-l-ile-communiste_6669920_3210.html
 2026-03-09 https://www.lemonde.fr/international/live/2026/03/09/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-parle-avec-vladimir-poutine-d-une-guerre-sans-fin_6669953_3210.html
+2026-03-10 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-la-fin-du-conflit-pour-bientot-les-bourses-rassurees_7857992.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-10 https://www.lemonde.fr/international/video/2026/03/10/donald-trump-declare-que-la-guerre-contre-l-iran-va-se-terminer-bientot_6670213_3210.html
