@@ -31,3 +31,4 @@
 2026-03-05 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/je-dois-etre-implique-dans-cette-nomination-donald-trump-exige-d-avoir-son-mot-a-dire-dans-le-choix-du-successeur-d-ali-khamenei-a-la-tete-de-l-iran_7847855.html#xtor=RSS-3-%5Bgeneral%5D
 2026-03-07 https://www.franceinfo.fr/monde/ameriques/donald-trump-lance-une-coalition-pour-eradiquer-les-cartels-en-amerique-latine_7852382.html#xtor=RSS-3-%5Bgeneral%5D
 2026-03-07 https://www.lemonde.fr/international/article/2026/03/07/je-vais-m-occuper-de-cuba-donald-trump-promet-un-grand-changement-de-l-ile-communiste_6669920_3210.html
+2026-03-09 https://www.lemonde.fr/international/live/2026/03/09/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-parle-avec-vladimir-poutine-d-une-guerre-sans-fin_6669953_3210.html
