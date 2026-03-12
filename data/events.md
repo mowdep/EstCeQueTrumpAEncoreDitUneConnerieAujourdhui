@@ -34,3 +34,4 @@
 2026-03-09 https://www.lemonde.fr/international/live/2026/03/09/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-parle-avec-vladimir-poutine-d-une-guerre-sans-fin_6669953_3210.html
 2026-03-10 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-la-fin-du-conflit-pour-bientot-les-bourses-rassurees_7857992.html#xtor=RSS-3-%5Bgeneral%5D
 2026-03-10 https://www.lemonde.fr/international/video/2026/03/10/donald-trump-declare-que-la-guerre-contre-l-iran-va-se-terminer-bientot_6670213_3210.html
+2026-03-11 https://www.lemonde.fr/international/article/2026/03/11/trump-a-claque-la-porte-a-l-immigration-ce-qui-ralentira-la-croissance-economique_6670557_3210.html
