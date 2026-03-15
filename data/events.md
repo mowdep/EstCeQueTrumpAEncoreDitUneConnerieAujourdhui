@@ -36,3 +36,4 @@
 2026-03-10 https://www.lemonde.fr/international/video/2026/03/10/donald-trump-declare-que-la-guerre-contre-l-iran-va-se-terminer-bientot_6670213_3210.html
 2026-03-11 https://www.lemonde.fr/international/article/2026/03/11/trump-a-claque-la-porte-a-l-immigration-ce-qui-ralentira-la-croissance-economique_6670557_3210.html
 2026-03-14 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-que-l-iran-est-completement-vaincu-teheran-menace-en-retour-de-reduire-en-cendres-les-compagnies-petrolieres-liees-aux-etats-unis-presentes-au-moyen-orient_7867496.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-14 https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-lance-un-appel-a-d-autres-pays-dont-la-france-a-pour-venir-l-aider-dans-le-detroit-d-ormuz_7868198.html#xtor=RSS-3-%5Bgeneral%5D
