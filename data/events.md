@@ -40,3 +40,4 @@
 2026-03-16 https://www.lesechos.fr/monde/afrique-moyen-orient/guerre-en-iran-des-consequences-tres-mauvaises-pour-lavenir-de-lotan-trump-presse-les-allies-de-laider-a-ouvrir-le-detroit-dormuz-2221091
 2026-03-18 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/sur-le-terrain-du-mardi-17-mars-d-trump-n-a-besoin-de-personne_7876697.html#xtor=RSS-3-%5Bgeneral%5D
 2026-03-19 https://www.lemonde.fr/international/live/2026/03/19/en-direct-guerre-au-moyen-orient-le-complexe-gazier-de-ras-laffan-au-qatar-en-proie-a-des-dommages-considerables-apres-de-nouvelles-frappes-iraniennes-donald-trump-menace-de-detruire-la-reserve-de-south-pars_6671147_3210.html
+2026-03-20 https://www.lemonde.fr/international/article/2026/03/20/l-administration-trump-attaque-harvard-et-denonce-un-climat-antisemite-sur-fond-de-manifestations-propalestiniennes_6672756_3210.html
