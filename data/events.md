@@ -42,3 +42,4 @@
 2026-03-19 https://www.lemonde.fr/international/live/2026/03/19/en-direct-guerre-au-moyen-orient-le-complexe-gazier-de-ras-laffan-au-qatar-en-proie-a-des-dommages-considerables-apres-de-nouvelles-frappes-iraniennes-donald-trump-menace-de-detruire-la-reserve-de-south-pars_6671147_3210.html
 2026-03-20 https://www.lemonde.fr/international/article/2026/03/20/l-administration-trump-attaque-harvard-et-denonce-un-climat-antisemite-sur-fond-de-manifestations-propalestiniennes_6672756_3210.html
 2026-03-21 https://www.franceinfo.fr/monde/moyen-orient/donald-trump-envisage-de-reduire-graduellement-les-operations-militaires-contre-l-iran-malgre-l-annonce-d-un-deploiement-de-forces-supplementaires-dans-la-region_7883957.html#xtor=RSS-3-%5Bgeneral%5D
+2026-03-21 https://www.lemonde.fr/international/article/2026/03/21/donald-trump-menace-d-envoyer-l-ice-assurer-les-controles-de-securite-dans-les-aeroports-en-manque-de-personnel-a-cause-d-un-shutdown-partiel_6673285_3210.html
