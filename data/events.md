@@ -49,5 +49,4 @@
 2026-03-23 https://www.lemonde.fr/international/live/2026/03/23/en-direct-guerre-au-moyen-orient-l-iran-menace-de-poser-des-mines-navales-si-ses-cotes-ou-iles-sont-attaquees_6673056_3210.html
 2026-03-25 https://www.lemonde.fr/international/live/2026/03/25/en-direct-guerre-au-moyen-orient-des-missiles-iraniens-ont-vise-le-porte-avions-abraham-lincoln-donald-trump-affirme-qu-ils-ont-tous-ete-interceptes_6673056_3210.html
 2026-03-25 https://www.lemonde.fr/international/video/2026/03/25/guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-negocient-en-ce-moment-avec-l-iran_6674177_3210.html
-2026-03-26 https://www.lemonde.fr/idees/article/2026/03/26/approchant-les-sables-du-golfe-arabo-persique-donald-trump-a-ete-la-victime-d-un-phenomene-frequent-en-ces-lieux-les-mirages_6674290_3232.html
 2026-03-26 https://indianexpress.com/article/world/trump-claims-people-of-iran-want-him-as-supreme-leader-says-no-thank-you-10602005/
