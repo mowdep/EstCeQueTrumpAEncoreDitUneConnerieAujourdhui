@@ -54,3 +54,4 @@
 2026-03-27 https://www.lemonde.fr/international/article/2026/03/27/donald-trump-interdit-a-son-administration-de-travailler-avec-des-entreprises-menant-des-politiques-antidiscriminations_6674475_3210.html
 2026-03-30 https://www.lemonde.fr/international/live/2026/03/30/en-direct-guerre-au-moyen-orient-un-casque-bleu-indonesien-de-la-finul-tue-par-une-explosion-d-origine-inconnue-dans-le-sud-du-liban_6674837_3210.html
 2026-03-30 https://www.lemonde.fr/international/live/2026/03/30/en-direct-guerre-au-moyen-orient-l-ong-human-rights-watch-accuse-l-iran-d-utiliser-des-armes-a-sous-munitions-contre-israel_6674837_3210.html
+2026-03-31 https://www.lemonde.fr/international/live/2026/03/31/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-la-france-a-ete-tres-peu-cooperative-en-iran_6674837_3210.html
