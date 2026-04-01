@@ -57,3 +57,4 @@
 2026-03-31 https://www.lemonde.fr/international/live/2026/03/31/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-la-france-a-ete-tres-peu-cooperative-en-iran_6674837_3210.html
 2026-04-01 https://www.lemonde.fr/international/article/2026/04/01/donald-trump-signe-un-decret-destine-a-encadrer-davantage-le-vote-par-correspondance_6675746_3210.html
 2026-04-01 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-affirme-que-la-guerre-en-iran-sera-finie-d-ici-deux-ou-trois-semaines_7908305.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-01 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/d-trump-menace-la-france-les-etats-unis-s-en-souviendront_7908737.html#xtor=RSS-3-%5Bgeneral%5D
