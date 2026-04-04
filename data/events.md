@@ -62,3 +62,4 @@
 2026-04-02 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-a-limoge-sa-ministre-de-la-justice-pam-bondi-remplacee-par-son-avocat-personnel_7911608.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-02 https://www.lemonde.fr/economie/article/2026/04/02/droits-de-douane-donald-trump-impose-certains-medicaments-afin-d-accelerer-la-reimplantation-d-usine-aux-etats-unis_6676193_3234.html
 2026-04-03 https://www.lemonde.fr/international/live/2026/04/03/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-detruire-de-nouvelles-infrastructures-civiles-iraniennes_6674837_3210.html
+2026-04-04 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/on-mene-des-guerres-donald-trump-veut-1-500-milliards-de-dollars-pour-l-armee-americaine-en-2027_7915187.html#xtor=RSS-3-%5Bgeneral%5D
