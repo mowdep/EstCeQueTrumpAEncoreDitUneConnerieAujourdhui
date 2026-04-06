@@ -65,3 +65,4 @@
 2026-04-04 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/on-mene-des-guerres-donald-trump-veut-1-500-milliards-de-dollars-pour-l-armee-americaine-en-2027_7915187.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-05 https://www.lemonde.fr/international/live/2026/04/05/en-direct-guerre-en-iran-donald-trump-menace-de-bombarder-les-centrales-et-les-ponts-si-teheran-ne-rouvre-pas-le-detroit-d-ormuz-d-ici-a-mardi-soir_6676633_3210.html
 2026-04-06 https://www.lemonde.fr/international/article/2026/04/06/donald-trump-insulte-et-menace-les-iraniens-de-destructions-massives-en-cas-de-non-reouverture-du-detroit-d-ormuz_6677070_3210.html
+2026-04-06 https://www.franceinfo.fr/replay-radio/ca-dit-quoi/trump-insulte-l-iran-la-garde-republicaine-accusee-de-racisme-daredevil-ultra-politique-ca-dit-quoi-ce-6-avril_7904891.html#xtor=RSS-3-%5Bgeneral%5D
