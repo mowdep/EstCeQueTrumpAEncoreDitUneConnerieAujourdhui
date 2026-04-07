@@ -67,3 +67,5 @@
 2026-04-06 https://www.lemonde.fr/international/article/2026/04/06/donald-trump-insulte-et-menace-les-iraniens-de-destructions-massives-en-cas-de-non-reouverture-du-detroit-d-ormuz_6677070_3210.html
 2026-04-06 https://www.franceinfo.fr/replay-radio/ca-dit-quoi/trump-insulte-l-iran-la-garde-republicaine-accusee-de-racisme-daredevil-ultra-politique-ca-dit-quoi-ce-6-avril_7904891.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-06 https://www.lemonde.fr/international/video/2026/04/06/donald-trump-affirme-que-l-iran-tout-entier-pourrait-etre-detruit-en-une-seule-nuit_6677523_3210.html
+2026-04-07 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-le-pays-peut-disparaitre-en-une-nuit-donald-trump-menace-d-aneantir-l-iran-si-aucun-accord-n-est-trouve-d-ici-mardi-soir_7920578.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-07 https://www.lemonde.fr/international/article/2026/04/07/donald-trump-menace-d-aneantir-les-infrastructures-civiles-iraniennes-au-risque-de-provoquer-une-escalade-majeure-dans-le-conflit-au-moyen-orient_6677796_3210.html
