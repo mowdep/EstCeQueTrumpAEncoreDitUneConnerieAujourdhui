@@ -69,3 +69,4 @@
 2026-04-06 https://www.lemonde.fr/international/video/2026/04/06/donald-trump-affirme-que-l-iran-tout-entier-pourrait-etre-detruit-en-une-seule-nuit_6677523_3210.html
 2026-04-07 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-le-pays-peut-disparaitre-en-une-nuit-donald-trump-menace-d-aneantir-l-iran-si-aucun-accord-n-est-trouve-d-ici-mardi-soir_7920578.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-07 https://www.lemonde.fr/international/article/2026/04/07/donald-trump-menace-d-aneantir-les-infrastructures-civiles-iraniennes-au-risque-de-provoquer-une-escalade-majeure-dans-le-conflit-au-moyen-orient_6677796_3210.html
+2026-04-08 https://www.lemonde.fr/international/article/2026/04/08/apres-sa-promesse-d-aneantir-l-iran-donald-trump-recule-et-offre-une-ouverture-de-deux-semaines-a-la-diplomatie_6678201_3210.html
