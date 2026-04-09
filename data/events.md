@@ -72,3 +72,4 @@
 2026-04-08 https://www.lemonde.fr/international/article/2026/04/08/apres-sa-promesse-d-aneantir-l-iran-donald-trump-recule-et-offre-une-ouverture-de-deux-semaines-a-la-diplomatie_6678201_3210.html
 2026-04-09 https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-au-moyen-orient-le-hezbollah-dit-avoir-cible-israel-apres-une-journee-marquee-par-d-intenses-bombardements-sur-le-liban-qui-ont-fait-au-moins-254-morts-selon-la-defense-civile_6676633_3210.html
 2026-04-09 https://www.franceinfo.fr/replay-radio/bientot-chez-vous/sur-fond-de-guerre-au-moyen-orient-donald-trump-menace-la-liberte-de-la-presse-au-nom-de-la-securite-nationale_7895036.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-09 https://www.bfmtv.com/economie/international/c-est-une-excellente-chose-donald-trump-est-favorable-a-l-idee-d-un-peage-dans-le-detroit-d-ormuz-et-propose-de-le-gerer-sous-forme-de-coentreprise-avec-l-iran_AV-202604090546.html
