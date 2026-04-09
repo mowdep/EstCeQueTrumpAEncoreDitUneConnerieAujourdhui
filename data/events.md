@@ -71,3 +71,4 @@
 2026-04-07 https://www.lemonde.fr/international/article/2026/04/07/donald-trump-menace-d-aneantir-les-infrastructures-civiles-iraniennes-au-risque-de-provoquer-une-escalade-majeure-dans-le-conflit-au-moyen-orient_6677796_3210.html
 2026-04-08 https://www.lemonde.fr/international/article/2026/04/08/apres-sa-promesse-d-aneantir-l-iran-donald-trump-recule-et-offre-une-ouverture-de-deux-semaines-a-la-diplomatie_6678201_3210.html
 2026-04-09 https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-au-moyen-orient-le-hezbollah-dit-avoir-cible-israel-apres-une-journee-marquee-par-d-intenses-bombardements-sur-le-liban-qui-ont-fait-au-moins-254-morts-selon-la-defense-civile_6676633_3210.html
+2026-04-09 https://www.franceinfo.fr/replay-radio/bientot-chez-vous/sur-fond-de-guerre-au-moyen-orient-donald-trump-menace-la-liberte-de-la-presse-au-nom-de-la-securite-nationale_7895036.html#xtor=RSS-3-%5Bgeneral%5D
