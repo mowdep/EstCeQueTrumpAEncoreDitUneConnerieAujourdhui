@@ -74,3 +74,4 @@
 2026-04-09 https://www.franceinfo.fr/replay-radio/bientot-chez-vous/sur-fond-de-guerre-au-moyen-orient-donald-trump-menace-la-liberte-de-la-presse-au-nom-de-la-securite-nationale_7895036.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-09 https://www.bfmtv.com/economie/international/c-est-une-excellente-chose-donald-trump-est-favorable-a-l-idee-d-un-peage-dans-le-detroit-d-ormuz-et-propose-de-le-gerer-sous-forme-de-coentreprise-avec-l-iran_AV-202604090546.html
 2026-04-11 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-detroit-d-ormuz-sera-bientot-ouvert-donald-trump-affirme-que-les-etats-unis-ont-commence-a-le-degager_7931207.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-12 https://www.lemonde.fr/international/live/2026/04/12/en-direct-guerre-au-moyen-orient-donald-trump-ordonne-un-blocus-du-detroit-d-ormuz-et-menace-les-soutiens-de-l-iran-apres-l-echec-des-negociations_6676633_3210.html
