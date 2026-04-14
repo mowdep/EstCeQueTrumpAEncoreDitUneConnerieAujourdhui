@@ -76,3 +76,5 @@
 2026-04-11 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-detroit-d-ormuz-sera-bientot-ouvert-donald-trump-affirme-que-les-etats-unis-ont-commence-a-le-degager_7931207.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-12 https://www.lemonde.fr/international/live/2026/04/12/en-direct-guerre-au-moyen-orient-donald-trump-ordonne-un-blocus-du-detroit-d-ormuz-et-menace-les-soutiens-de-l-iran-apres-l-echec-des-negociations_6676633_3210.html
 2026-04-13 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-annonce-un-blocus-naval-du-detroit-d-ormuz_7934147.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-13 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-declare-que-l-iran-veut-a-tout-prix-conclure-un-accord_7935314.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-13 https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/blocus-d-ormuz-d-trump-critique-le-pape-nouveau-premier-ministre-hongrois-les-informes-de-franceinfo-du-lundi-13-avril-2026_7903592.html#xtor=RSS-3-%5Bgeneral%5D
