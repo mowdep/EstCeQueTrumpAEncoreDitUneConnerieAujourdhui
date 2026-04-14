@@ -78,3 +78,5 @@
 2026-04-13 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-annonce-un-blocus-naval-du-detroit-d-ormuz_7934147.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-13 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-declare-que-l-iran-veut-a-tout-prix-conclure-un-accord_7935314.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-13 https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/blocus-d-ormuz-d-trump-critique-le-pape-nouveau-premier-ministre-hongrois-les-informes-de-franceinfo-du-lundi-13-avril-2026_7903592.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-14 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-13-avril-2026-donald-trump-prend-il-des-risques-en-attaquant-le-pape_7936499.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-14 https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/dans-le-detroit-d-ormuz-donald-trump-met-la-pression-sur-l-iran-en-visant-la-chine_7905707.html#xtor=RSS-3-%5Bgeneral%5D
