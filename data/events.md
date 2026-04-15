@@ -81,3 +81,4 @@
 2026-04-14 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-13-avril-2026-donald-trump-prend-il-des-risques-en-attaquant-le-pape_7936499.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-14 https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/dans-le-detroit-d-ormuz-donald-trump-met-la-pression-sur-l-iran-en-visant-la-chine_7905707.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-15 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-14-avril-2026-donald-trump-prend-il-des-risques-en-attaquant-le-pape_7939511.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-15 https://www.franceinfo.fr/monde/iran/donald-trump-declare-que-la-guerre-en-iran-est-presque-finie_7940378.html#xtor=RSS-3-%5Bgeneral%5D
