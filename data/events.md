@@ -82,3 +82,5 @@
 2026-04-14 https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/dans-le-detroit-d-ormuz-donald-trump-met-la-pression-sur-l-iran-en-visant-la-chine_7905707.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-15 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-14-avril-2026-donald-trump-prend-il-des-risques-en-attaquant-le-pape_7939511.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-15 https://www.franceinfo.fr/monde/iran/donald-trump-declare-que-la-guerre-en-iran-est-presque-finie_7940378.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-16 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/negociations-au-moyen-orient-donald-trump-affirme-qu-israel-et-le-liban-sont-d-accord-pour-un-cessez-le-feu-de-10-jours-sans-faire-mention-du-hezbollah_7943729.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-16 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/israel-liban-donald-trump-annonce-un-cessez-le-feu_7943843.html#xtor=RSS-3-%5Bgeneral%5D
