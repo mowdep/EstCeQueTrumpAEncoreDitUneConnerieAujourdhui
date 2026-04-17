@@ -84,3 +84,4 @@
 2026-04-15 https://www.franceinfo.fr/monde/iran/donald-trump-declare-que-la-guerre-en-iran-est-presque-finie_7940378.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-16 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/negociations-au-moyen-orient-donald-trump-affirme-qu-israel-et-le-liban-sont-d-accord-pour-un-cessez-le-feu-de-10-jours-sans-faire-mention-du-hezbollah_7943729.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-16 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/israel-liban-donald-trump-annonce-un-cessez-le-feu_7943843.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-16 https://www.lemonde.fr/international/video/2026/04/16/liban-donald-trump-affirme-que-le-cessez-le-feu-inclura-le-hezbollah_6680589_3210.html
