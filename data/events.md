@@ -87,3 +87,4 @@
 2026-04-16 https://www.lemonde.fr/international/video/2026/04/16/liban-donald-trump-affirme-que-le-cessez-le-feu-inclura-le-hezbollah_6680589_3210.html
 2026-04-17 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-annonce-l-entree-en-vigueur-d-une-treve-de-dix-jours-entre-israel-et-le-liban_7945187.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-18 https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-au-moyen-orient-donald-trump-veut-un-accord-avant-de-lever-le-blocus-des-ports-iraniens-teheran-menace-de-refermer-le-detroit-d-ormuz-si-ce-blocus-continue_6679867_3210.html
+2026-04-19 https://www.lemonde.fr/international/article/2026/04/19/l-iran-verrouille-de-nouveau-le-detroit-d-ormuz-donald-trump-denonce-un-chantage_6681288_3210.html
