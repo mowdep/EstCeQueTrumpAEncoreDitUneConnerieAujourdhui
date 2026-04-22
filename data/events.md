@@ -91,3 +91,4 @@
 2026-04-19 https://www.lemonde.fr/economie/article/2026/04/19/comment-la-rancune-tenace-de-trump-menace-la-designation-du-nouveau-patron-de-la-fed_6681468_3234.html
 2026-04-19 https://www.lemonde.fr/international/live/2026/04/19/en-direct-guerre-au-moyen-orient-donald-trump-annonce-de-nouvelles-negociations-au-pakistan-l-iran-n-a-pas-encore-confirme-sa-presence_6679867_3210.html
 2026-04-19 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-l-envoi-d-une-delegation-americaine-au-pakistan-lundi-l-iran-ne-confirme-pas-sa-participation-aux-nouvelles-negociations_7950035.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-22 https://www.lemonde.fr/international/article/2026/04/22/l-administration-trump-envisage-d-expulser-vers-la-rdc-plus-d-un-millier-d-afghans-ayant-aide-l-armee-americaine_6682164_3210.html
