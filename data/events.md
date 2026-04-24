@@ -96,3 +96,4 @@
 2026-04-22 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-21-avril-2026-donald-trump-souhaite-prolonger-le-cessez-le-feu-avec-l-iran_7956164.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-23 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-avoir-permis-d-eviter-l-execution-de-huit-opposantes-en-iran-teheran-parle-de-fausses-informations_7959356.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-23 https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-donald-trump-affirme-controler-le-detroit-d-ormuz-et-ordonne-de-detruire-les-bateaux-iraniens-qui-y-posent-des-mines_6681958_3210.html
+2026-04-23 https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-donald-trump-assure-avoir-tout-le-temps-necessaire-concernant-l-iran-le-porte-avions-uss-george-hw-bush-navigue-a-proximite-du-moyen-orient_6681958_3210.html
