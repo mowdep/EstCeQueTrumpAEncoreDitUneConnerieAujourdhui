@@ -99,3 +99,4 @@
 2026-04-23 https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-au-moyen-orient-donald-trump-assure-avoir-tout-le-temps-necessaire-concernant-l-iran-le-porte-avions-uss-george-hw-bush-navigue-a-proximite-du-moyen-orient_6681958_3210.html
 2026-04-24 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-annonce-une-prolongation-de-trois-semaines-de-la-treve-au-liban_7961123.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-24 https://www.lemonde.fr/international/live/2026/04/24/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-entre-israel-et-le-liban-sera-prolonge-de-trois-semaines-annonce-donald-trump_6681958_3210.html
+2026-04-25 https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html
