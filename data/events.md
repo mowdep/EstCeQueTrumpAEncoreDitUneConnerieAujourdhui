@@ -100,3 +100,4 @@
 2026-04-24 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-annonce-une-prolongation-de-trois-semaines-de-la-treve-au-liban_7961123.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-24 https://www.lemonde.fr/international/live/2026/04/24/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-entre-israel-et-le-liban-sera-prolonge-de-trois-semaines-annonce-donald-trump_6681958_3210.html
 2026-04-25 https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html
+2026-04-26 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tirs-au-diner-de-gala-des-correspondants-avec-donald-trump/ces-trois-fois-ou-la-vie-de-donald-trump-a-ete-menacee-avant-les-tirs-au-diner-de-gala-de-correspondants-de-la-maison-blanche_7965452.html#xtor=RSS-3-%5Bgeneral%5D
