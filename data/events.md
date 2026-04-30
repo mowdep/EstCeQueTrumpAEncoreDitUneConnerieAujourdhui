@@ -105,3 +105,4 @@
 2026-04-30 https://www.lemonde.fr/international/article/2026/04/30/donald-trump-envisage-de-reduire-le-nombre-de-soldats-americains-stationnes-en-allemagne_6684362_3210.html
 2026-04-30 https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-plaide-pour-un-cessez-le-feu-lors-de-sa-conversation-telephonique-avec-vladimir-poutine_6683420_3210.html
 2026-04-30 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-29-avril-2026-donald-trump-dit-avoir-eu-un-tres-bon-echange-avec-poutine_7973849.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-30 https://www.lemonde.fr/international/article/2026/04/30/guerre-en-iran-la-france-s-inquiete-d-une-crise-longue-alors-que-donald-trump-menace-de-bloquer-le-detroit-d-ormuz-pendant-des-mois_6684628_3210.html
