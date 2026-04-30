@@ -102,3 +102,5 @@
 2026-04-25 https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html
 2026-04-26 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tirs-au-diner-de-gala-des-correspondants-avec-donald-trump/ces-trois-fois-ou-la-vie-de-donald-trump-a-ete-menacee-avant-les-tirs-au-diner-de-gala-de-correspondants-de-la-maison-blanche_7965452.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-27 https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii/donald-trump-a-un-profond-respect-pour-la-monarchie-britannique-en-pleine-crise-entre-washington-et-londres-charles-iii-entame-une-visite-d-etat_7967252.html#xtor=RSS-3-%5Bgeneral%5D
+2026-04-30 https://www.lemonde.fr/international/article/2026/04/30/donald-trump-envisage-de-reduire-le-nombre-de-soldats-americains-stationnes-en-allemagne_6684362_3210.html
+2026-04-30 https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-plaide-pour-un-cessez-le-feu-lors-de-sa-conversation-telephonique-avec-vladimir-poutine_6683420_3210.html
