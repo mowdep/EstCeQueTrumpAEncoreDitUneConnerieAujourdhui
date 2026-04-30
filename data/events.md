@@ -104,3 +104,4 @@
 2026-04-27 https://www.franceinfo.fr/monde/royaume-uni/roi-charles-iii/donald-trump-a-un-profond-respect-pour-la-monarchie-britannique-en-pleine-crise-entre-washington-et-londres-charles-iii-entame-une-visite-d-etat_7967252.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-30 https://www.lemonde.fr/international/article/2026/04/30/donald-trump-envisage-de-reduire-le-nombre-de-soldats-americains-stationnes-en-allemagne_6684362_3210.html
 2026-04-30 https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-en-ukraine-donald-trump-dit-avoir-plaide-pour-un-cessez-le-feu-lors-de-sa-conversation-telephonique-avec-vladimir-poutine_6683420_3210.html
+2026-04-30 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-29-avril-2026-donald-trump-dit-avoir-eu-un-tres-bon-echange-avec-poutine_7973849.html#xtor=RSS-3-%5Bgeneral%5D
