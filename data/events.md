@@ -107,3 +107,6 @@
 2026-04-30 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-29-avril-2026-donald-trump-dit-avoir-eu-un-tres-bon-echange-avec-poutine_7973849.html#xtor=RSS-3-%5Bgeneral%5D
 2026-04-30 https://www.lemonde.fr/international/article/2026/04/30/guerre-en-iran-la-france-s-inquiete-d-une-crise-longue-alors-que-donald-trump-menace-de-bloquer-le-detroit-d-ormuz-pendant-des-mois_6684628_3210.html
 2026-05-01 https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-supprimer-les-droits-de-douane-sur-le-whisky-ecossais-apres-la-visite-du-roi-charles-iii_6684663_3210.html
+2026-05-01 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-veut-son-propre-arc-de-triomphe_7977068.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-01 https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-un-renforcement-des-sanctions-contre-cuba_6684749_3210.html
+2026-05-01 https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-vouloir-relever-a-25-des-la-semaine-prochaine-les-droits-de-douane-sur-les-vehicules-europeens_6684739_3210.html
