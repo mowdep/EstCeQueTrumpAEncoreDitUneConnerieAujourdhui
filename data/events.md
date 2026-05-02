@@ -112,3 +112,5 @@
 2026-05-01 https://www.lemonde.fr/international/article/2026/05/01/donald-trump-annonce-vouloir-relever-a-25-des-la-semaine-prochaine-les-droits-de-douane-sur-les-vehicules-europeens_6684739_3210.html
 2026-05-02 https://www.franceinfo.fr/monde/cuba/donald-trump-annonce-un-durcissement-des-sanctions-americaines-contre-cuba-deja-visee-par-un-embargo-petrolier_7978439.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-02 https://www.franceinfo.fr/replay-jt/france-2/13-heures/droits-de-douane-retrait-militaire-donald-trump-met-la-pression-sur-l-europe-en-particulier-sur-l-allemagne_7978685.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-02 https://www.lemonde.fr/international/article/2026/05/02/donald-trump-menace-cuba-d-une-intervention-militaire-la-havane-alerte-sur-un-niveau-dangereux-et-sans-precedent_6684887_3210.html
+2026-05-02 https://www.lemonde.fr/international/article/2026/05/02/guerre-en-iran-donald-trump-declare-les-hostilites-terminees-et-contourne-le-congres-americain_6684875_3210.html
