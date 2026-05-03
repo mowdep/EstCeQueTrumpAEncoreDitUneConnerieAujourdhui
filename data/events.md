@@ -116,3 +116,5 @@
 2026-05-02 https://www.lemonde.fr/international/article/2026/05/02/guerre-en-iran-donald-trump-declare-les-hostilites-terminees-et-contourne-le-congres-americain_6684875_3210.html
 2026-05-03 https://www.lemonde.fr/international/article/2026/05/03/donald-trump-va-retirer-bien-davantage-de-soldats-d-allemagne-que-la-baisse-d-effectifs-de-5-000-annoncee-par-le-pentagone_6684958_3210.html
 2026-05-03 https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html
+2026-05-03 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_7980218.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-03 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-veut-retirer-bien-davantage-de-soldats-americains-stationnes-en-allemagne-que-les-5-000-annonces-par-le-pentagone_7980188.html#xtor=RSS-3-%5Bgeneral%5D
