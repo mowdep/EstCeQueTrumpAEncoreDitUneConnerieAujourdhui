@@ -114,3 +114,5 @@
 2026-05-02 https://www.franceinfo.fr/replay-jt/france-2/13-heures/droits-de-douane-retrait-militaire-donald-trump-met-la-pression-sur-l-europe-en-particulier-sur-l-allemagne_7978685.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-02 https://www.lemonde.fr/international/article/2026/05/02/donald-trump-menace-cuba-d-une-intervention-militaire-la-havane-alerte-sur-un-niveau-dangereux-et-sans-precedent_6684887_3210.html
 2026-05-02 https://www.lemonde.fr/international/article/2026/05/02/guerre-en-iran-donald-trump-declare-les-hostilites-terminees-et-contourne-le-congres-americain_6684875_3210.html
+2026-05-03 https://www.lemonde.fr/international/article/2026/05/03/donald-trump-va-retirer-bien-davantage-de-soldats-d-allemagne-que-la-baisse-d-effectifs-de-5-000-annoncee-par-le-pentagone_6684958_3210.html
+2026-05-03 https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html
