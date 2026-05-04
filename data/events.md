@@ -119,3 +119,4 @@
 2026-05-03 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_7980218.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-03 https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-veut-retirer-bien-davantage-de-soldats-americains-stationnes-en-allemagne-que-les-5-000-annonces-par-le-pentagone_7980188.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-03 https://www.franceinfo.fr/replay-jt/france-2/13-heures/donald-trump-va-etudier-le-plan-de-paix-en-14-points-des-iraniens_7980473.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-03 https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-que-la-marine-americaine-va-escorter-des-navires-bloques-a-travers-le-detroit-d-ormuz-a-partir-de-lundi_6684072_3210.html
