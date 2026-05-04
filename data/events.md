@@ -122,3 +122,4 @@
 2026-05-03 https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-que-la-marine-americaine-va-escorter-des-navires-bloques-a-travers-le-detroit-d-ormuz-a-partir-de-lundi_6684072_3210.html
 2026-05-04 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-lance-une-operation-pour-debloquer-le-detroit-d-ormuz-l-iran-met-en-garde-contre-toute-interference-americaine_7982018.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-04 https://www.lemonde.fr/international/article/2026/05/04/donald-trump-annonce-lancer-une-operation-pour-debloquer-des-navires-coinces-depuis-deux-mois-dans-le-detroit-d-ormuz_6685343_3210.html
+2026-05-04 https://www.lemonde.fr/international/live/2026/05/04/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-l-armee-americaine-a-abattu-sept-petites-embarcations-iraniennes-dans-le-detroit-d-ormuz_6684072_3210.html
