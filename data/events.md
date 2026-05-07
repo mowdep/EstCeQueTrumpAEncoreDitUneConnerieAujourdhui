@@ -128,3 +128,4 @@
 2026-05-06 https://www.lemonde.fr/international/article/2026/05/06/donald-trump-suspend-l-operation-d-escorte-des-navires-dans-le-detroit-d-ormuz_6685836_3210.html
 2026-05-06 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/projet-liberte-donald-trump-suspend-son-operation-d-escorte-de-navires-dans-le-detroit-d-ormuz-et-se-fait-rassurant_7986959.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-06 https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-au-moyen-orient-donald-trump-menace-de-nouveau-de-bombarder-l-iran-si-teheran-ne-conclut-pas-un-accord_6684072_3210.html
+2026-05-07 https://www.lemonde.fr/international/article/2026/05/07/l-administration-trump-qualifie-l-europe-d-incubateur-de-menaces-terroristes_6686311_3210.html
