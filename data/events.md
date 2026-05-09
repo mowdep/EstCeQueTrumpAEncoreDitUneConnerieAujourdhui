@@ -132,3 +132,4 @@
 2026-05-07 https://www.lemonde.fr/international/article/2026/05/07/donald-trump-menace-l-ue-de-lourdes-taxes-si-l-accord-commercial-n-est-pas-applique-avant-le-4-juillet_6686609_3210.html
 2026-05-07 https://www.lemonde.fr/international/live/2026/05/07/en-direct-guerre-au-moyen-orient-les-etats-unis-et-leurs-allies-du-golfe-plaident-a-l-onu-pour-une-condamnation-de-l-iran_6686485_3210.html
 2026-05-08 https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-donald-trump-annonce-un-cessez-le-feu-de-trois-jours-entre-kiev-et-moscou-a-partir-de-samedi_7992212.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-09 https://www.lemonde.fr/international/article/2026/05/09/guerre-en-ukraine-donald-trump-annonce-un-cessez-le-feu-et-veut-croire-au-debut-de-la-fin-du-conflit_6687372_3210.html
