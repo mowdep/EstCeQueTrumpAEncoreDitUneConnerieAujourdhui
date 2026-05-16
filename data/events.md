@@ -136,3 +136,4 @@
 2026-05-12 https://www.lemonde.fr/economie/article/2026/05/12/la-politique-erratique-de-donald-trump-fait-bondir-l-inflation-aux-etats-unis_6688266_3234.html
 2026-05-15 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-14-mai-2026-quand-donald-trump-declare-sa-flamme-a-xi-jinping_8005508.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-15 https://www.franceinfo.fr/monde/usa/presidentielle/procedure-de-destitution-de-donald-trump/donald-trump-dit-avoir-conclu-des-accords-commerciaux-fantastiques-avec-xi-jinping-pendant-sa-visite-en-chine_8005502.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-16 https://www.lemonde.fr/afrique/article/2026/05/16/donald-trump-annonce-la-mort-d-un-dirigeant-de-l-etat-islamique-dans-une-operation-conjointe-avec-le-nigeria_6689685_3212.html
