@@ -142,3 +142,5 @@
 2026-05-18 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-avoir-renonce-a-une-nouvelle-attaque-contre-l-iran-prevue-mardi_8012441.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-19 https://www.lemonde.fr/international/live/2026/05/19/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-discussions-sur-le-nucleaire-iranien-evoluent-de-maniere-tres-positive_6688992_3210.html
 2026-05-19 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-annonce-avoir-renonce-a-l-attaque-contre-l-iran-prevue-ce-mardi_8013608.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-21 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-examine-une-nouvelle-proposition-de-paixe-americaine-donald-trump-affirme-qu-il-s-agit-de-la-derniere-phase-des-negociations_8017445.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-21 https://www.lemonde.fr/international/article/2026/05/21/groenland-l-emissaire-de-donald-trump-affirme-qu-il-est-temps-que-les-etats-unis-remettent-leur-empreinte-sur-le-territoire_6691801_3210.html
