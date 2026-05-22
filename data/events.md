@@ -145,3 +145,4 @@
 2026-05-21 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-examine-une-nouvelle-proposition-de-paixe-americaine-donald-trump-affirme-qu-il-s-agit-de-la-derniere-phase-des-negociations_8017445.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-21 https://www.lemonde.fr/international/article/2026/05/21/groenland-l-emissaire-de-donald-trump-affirme-qu-il-est-temps-que-les-etats-unis-remettent-leur-empreinte-sur-le-territoire_6691801_3210.html
 2026-05-21 https://www.lemonde.fr/international/live/2026/05/21/en-direct-guerre-au-moyen-orient-donald-trump-promet-de-recuperer-l-uranium-iranien-hautement-enrichi-et-de-le-detruire_6691823_3210.html
+2026-05-22 https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-en-ukraine-donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne_6690053_3210.html
