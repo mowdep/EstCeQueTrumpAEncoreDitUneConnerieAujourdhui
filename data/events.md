@@ -150,3 +150,4 @@
 2026-05-22 https://www.lemonde.fr/international/article/2026/05/22/donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne-malgre-ses-menaces-de-desengagement_6692254_3210.html
 2026-05-22 https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-au-moyen-orient-un-mediateur-pakistanais-a-nouveau-present-a-teheran-donald-trump-annonce-rester-a-washington-ce-week-end_6691823_3210.html
 2026-05-23 https://www.lemonde.fr/international/article/2026/05/23/carte-verte-l-administration-trump-annonce-imposer-aux-candidats-de-retourner-dans-leur-pays-d-origine-pour-deposer-leur-demande_6692389_3210.html
+2026-05-23 https://www.lemonde.fr/international/live/2026/05/23/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-reconstitue-ses-forces-armees-et-promet-une-defaite-ecrasante-si-donald-trump-relance-le-conflit_6691823_3210.html
