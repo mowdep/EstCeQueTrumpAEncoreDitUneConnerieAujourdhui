@@ -148,3 +148,5 @@
 2026-05-22 https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-en-ukraine-donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne_6690053_3210.html
 2026-05-22 https://www.franceinfo.fr/monde/usa/donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne_8020457.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-22 https://www.lemonde.fr/international/article/2026/05/22/donald-trump-annonce-l-envoi-de-5-000-militaires-americains-en-pologne-malgre-ses-menaces-de-desengagement_6692254_3210.html
+2026-05-22 https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-au-moyen-orient-un-mediateur-pakistanais-a-nouveau-present-a-teheran-donald-trump-annonce-rester-a-washington-ce-week-end_6691823_3210.html
+2026-05-23 https://www.lemonde.fr/international/article/2026/05/23/carte-verte-l-administration-trump-annonce-imposer-aux-candidats-de-retourner-dans-leur-pays-d-origine-pour-deposer-leur-demande_6692389_3210.html
