@@ -153,3 +153,4 @@
 2026-05-23 https://www.lemonde.fr/international/live/2026/05/23/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-reconstitue-ses-forces-armees-et-promet-une-defaite-ecrasante-si-donald-trump-relance-le-conflit_6691823_3210.html
 2026-05-25 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-de-hauts-responsables-iraniens-arrivent-a-doha-donald-trump-fait-monter-les-enjeux-d-un-accord-de-paix_8027546.html#xtor=RSS-3-%5Bgeneral%5D
 2026-05-26 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-25-mai-2026-accords-d-abraham-donald-trump-veut-les-elargir_8028452.html#xtor=RSS-3-%5Bgeneral%5D
+2026-05-28 https://www.lemonde.fr/afrique/article/2026/05/28/donald-trump-impose-sa-doctrine-america-first-a-l-aide-alimentaire-d-urgence_6694435_3212.html
