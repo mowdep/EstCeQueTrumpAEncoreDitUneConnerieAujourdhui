@@ -156,3 +156,4 @@
 2026-05-28 https://www.lemonde.fr/afrique/article/2026/05/28/donald-trump-impose-sa-doctrine-america-first-a-l-aide-alimentaire-d-urgence_6694435_3212.html
 2026-05-28 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quand-donald-trump-menace-de-pulveriser-oman-pays-allie-des-etats-unis_8033450.html#xtor=RSS-3-%5Bgeneral%5D
 2026-06-01 https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-au-moyen-orient-donald-trump-affirme-avoir-obtenu-un-accord-de-cessez-le-feu-entre-israel-et-le-hezbollah-et-ecarte-tout-bombardement-de-beyrouth_6694380_3210.html
+2026-06-02 https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-1er-juin-2026-donald-trump-annonce-un-cessez-le-feu-entre-israel-et-le-hezbollah_8040614.html#xtor=RSS-3-%5Bgeneral%5D
