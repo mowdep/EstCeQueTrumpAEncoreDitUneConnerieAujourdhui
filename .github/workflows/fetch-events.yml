@@ -3,7 +3,7 @@ name: Fetch Trump Events
 on:
   schedule:
     # Toutes les 6 heures
-    - cron: '0 */6 * * *'
+    #- cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
